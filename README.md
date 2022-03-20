@@ -1,16 +1,20 @@
-### Hi there 👋
+### 안녕하세요, 백엔드 웹개발자 김세준입니다.
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**dailyzett/dailyzett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+career : 
+2021.04 ~ 2022.02. 쌍용정보통신
 
-Here are some ideas to get you started:
+Skills: Java / JavaScript / spring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning java and spring.
+- 🌱 baekjoon profile : acmicpc.net/user/dailyzett
+- 🌱 blog : velog.io/@dailyzett
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dailyzett)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailyzett)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dailyzett&show_icons=true)  
+
