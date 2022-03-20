@@ -8,7 +8,7 @@ Skills: Java / JavaScript / spring
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning java and spring.
-- 🌱 baekjoon profile : <acmicpc.net/user/dailyzett>
+- 🌱 baekjoon profile : <www.acmicpc.net/user/dailyzett>
 - 🌱 blog : <velog.io/@dailyzett>
 
 
