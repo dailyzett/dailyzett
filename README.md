@@ -8,6 +8,7 @@
 
 - 🌱 프로필 : [https://notion.so/KIMSEJUN](https://www.notion.so/dailyzett/KIM-SE-JUN-def55dcf484a4d5d876c5cdbf6a9d63c)
 - 🌱 블로그 : https://velog.io/@dailyzett
+- 🌱 Today I Learned(TIL) : https://github.com/dailyzett/TIL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dailyzett)  
 
