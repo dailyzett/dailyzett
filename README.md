@@ -1,5 +1,4 @@
-### 안녕하세요, 백엔드 웹개발자 김세준입니다.
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### 백엔드 웹개발자 김세준입니다.
 
 경력 : 
 2021.04 ~ 2022.02. 쌍용정보통신
