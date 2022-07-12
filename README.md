@@ -5,7 +5,6 @@
 
 기술: Java / JavaScript / Spring
 
-- 🌱 프로필 : [https://notion.so/KIMSEJUN](https://www.notion.so/dailyzett/KIM-SE-JUN-def55dcf484a4d5d876c5cdbf6a9d63c)
 - 🌱 블로그 : https://velog.io/@dailyzett
 - 🌱 Today I Learned(TIL) : https://github.com/dailyzett/TIL
 - 🌱 협업 진행 프로젝트 : https://github.com/f-lab-edu/food-run
