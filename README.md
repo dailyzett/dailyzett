@@ -1,4 +1,4 @@
-### 백엔드 웹개발자 김세준입니다.
+### Hi
  
 ![dailyzett's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailyzett&show_icons=true&theme=radical)
 
