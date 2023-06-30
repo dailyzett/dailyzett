@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-# Blog posts
+# Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [싱글톤 디자인 패턴을 파헤쳐보자](https://velog.io/@dailyzett/%EC%8B%B1%EA%B8%80%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4%EC%9D%84-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EC%9E%90)
 - [맥 OS Ventura IntelliJ 화면 깜빡임 현상](https://velog.io/@dailyzett/%EB%A7%A5-OS-Ventura-IntelliJ-%ED%99%94%EB%A9%B4-%EA%B9%9C%EB%B9%A1%EC%9E%84-%ED%98%84%EC%83%81)
@@ -13,4 +13,10 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/dailyzett)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/dailyzett/badge-it)](https://badges.pufler.dev)
 
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/dailyzett/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=dailyzett&padding=30&skills=angular,c,C%23,coffeescript,dart,go,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue,kotlin,sql'>
+  </a>
 
