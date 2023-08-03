@@ -9,10 +9,6 @@
 - [H2 콘솔 자체가 실행이 안되는 경우](https://velog.io/@dailyzett/H2-%EC%BD%98%EC%86%94-%EC%9E%90%EC%B2%B4%EA%B0%80-%EC%8B%A4%ED%96%89%EC%9D%B4-%EC%95%88%EB%90%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
 <!-- BLOG-POST-LIST:END -->
 
-[![Repos Badge](https://badges.pufler.dev/repos/dailyzett)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/dailyzett)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/dailyzett/badge-it)](https://badges.pufler.dev)
-
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
