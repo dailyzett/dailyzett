@@ -9,6 +9,14 @@
 - [H2 콘솔 자체가 실행이 안되는 경우](https://velog.io/@dailyzett/H2-%EC%BD%98%EC%86%94-%EC%9E%90%EC%B2%B4%EA%B0%80-%EC%8B%A4%ED%96%89%EC%9D%B4-%EC%95%88%EB%90%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
 <!-- BLOG-POST-LIST:END -->
 
+# Tech Stack
+![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/-kotlin-violet?style=for-the-badge&logo=kotlin)
+![SPRING](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Junit5](https://img.shields.io/badge/junit-%2325A162?style=for-the-badge&logo=junit5&logoColor=white&color=red)
+
+
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
