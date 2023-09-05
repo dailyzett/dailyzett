@@ -15,7 +15,7 @@
 ![SPRING](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Junit5](https://img.shields.io/badge/junit-%2325A162?style=for-the-badge&logo=junit5&logoColor=white&color=red)
-
+![Groovy](https://img.shields.io/badge/apachegroovy-%234298B8?style=for-the-badge&logo=groovy)
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
