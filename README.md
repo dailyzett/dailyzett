@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-# Latest Blog Posts
+# The Latest Blog Posts.
 <!-- BLOG-POST-LIST:START -->
 - [API 규격서 서버로 도커 컨테이너와 Swagger 를 이용하기](https://velog.io/@dailyzett/API-%EA%B7%9C%EA%B2%A9%EC%84%9C-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8F%84%EC%BB%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-Swagger-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [스프링 부트 2.3.x RELEASE -&gt; 2.7.14 마이그레이션](https://velog.io/@dailyzett/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-2.3.x-RELEASE-2.7.14-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98)
@@ -9,7 +9,7 @@
 - [F-Lab 멘토링을 끝내면서](https://velog.io/@dailyzett/F-Lab-%EB%A9%98%ED%86%A0%EB%A7%81%EC%9D%84-%EB%81%9D%EB%82%B4%EB%A9%B4%EC%84%9C)
 <!-- BLOG-POST-LIST:END -->
 
-# Tech Stack
+# Tech Stack.
 ![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![KOTLIN](https://img.shields.io/badge/-kotlin-violet?style=for-the-badge&logo=kotlin)
 ![SPRING](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
