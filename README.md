@@ -17,10 +17,4 @@
 ![Junit5](https://img.shields.io/badge/junit-%2325A162?style=for-the-badge&logo=junit5&logoColor=white&color=red)
 ![Groovy](https://img.shields.io/badge/apachegroovy-%234298B8?style=for-the-badge&logo=groovy)
 
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/dailyzett/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=dailyzett&padding=30&skills=angular,c,C%23,coffeescript,dart,go,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue,kotlin,sql'>
-  </a>
 
